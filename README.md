@@ -8,4 +8,4 @@ If the player hits one of the walls, an error sound will be generated. When the 
 The appeal of the simplicity of the game is that the "theme" is easily changed. Provided is the code for the "beach" theme, with a blue background, sand colored maze, and red beach ball trail, along with the "forest" theme, with a brown background, green maze, and an apple trail. 
 
 ---
-Kari Huang, Elaine Gao, Mickey Santomartino, Josiah Kim
+Created by: Kari Huang, Elaine Gao, Mickey Santomartino, Josiah Kim
